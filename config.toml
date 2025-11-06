@@ -1,0 +1,6 @@
+package_name = "example-package"
+repository_url = "https://example.com/repo"
+test_mode = false
+package_version = "1.0.0"
+output_file = "graph.png"
+ascii_tree = false
